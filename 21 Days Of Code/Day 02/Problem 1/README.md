@@ -51,4 +51,5 @@ For each query print a single integer: the minimum walking time between the loca
 1
 
 4
-2#
+
+2
