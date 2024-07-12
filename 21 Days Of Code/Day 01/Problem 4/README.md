@@ -26,19 +26,19 @@ Output a single integer output for the operations in a new line each.
 
 ## Sample Input
 
-* 
+* (multiplication star)
 
 1 
 
 2 
 
-/ 
+/ (division slash)
 
 4 
 
 2 
 
-+ 
++ (addition plus)
 
 3 
 
