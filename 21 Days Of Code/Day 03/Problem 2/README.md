@@ -16,7 +16,7 @@ The first line contains two integers hh and mm (00 ≤ hh ≤ 23, 00�
 
 The second line contains four integers H, D, C and N (1 ≤ H ≤ 105, 1 ≤ D, C, N ≤ 102).
 
-## Constraints
+### Constraints
 
 (00 ≤ hh ≤ 23, 00 ≤ mm ≤ 59),
 
@@ -28,7 +28,7 @@ Output the minimum amount of money to with four decimal digits. It means if your
 
 Note : While Taking Input and Output Ignore Test case Input No and Test Case Output No, These are for your understanding.
 
-## Sample Input
+### Sample Input
 
 Test Case Input 1 : 19 00
 
@@ -37,7 +37,7 @@ Test Case Input 1 : 19 00
 Test Case Input 2 : 17 41
 1000 6 15 11
 
-## Sample Output
+### Sample Output
 
 Test Case Output 1 : 25200.0000
 
