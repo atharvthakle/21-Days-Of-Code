@@ -1,6 +1,6 @@
 # Problem 5
 
-Take the following as input.
+Take the following as input :
 
 A number (N1)
 
