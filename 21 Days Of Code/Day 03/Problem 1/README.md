@@ -6,7 +6,7 @@ It was currently hh:mm, displayed in the 24-hour format on their clock.
 
 Now, Mrs. Blocks had a peculiar belief. She was fond of palindromes and firmly believed that waking up at a palindrome time brought good luck. For those who don't know, a palindrome is a string that reads the same forwards and backwards. For instance, 05:50 is a palindrome because it reads the same even when reversed.
 
-So, the question arises: How long should Mrs. Blocks sleep to wake up at a palindrome time?
+So, the question arises: How long should Mrs. Blocks sleep to wake up at a palindrome time ?
 
 Imagine Mrs. Blocks pondering over this fascinating idea. She must ensure the clock shows a time that remains the same when read backwards. For example, 05:39 isn't a palindrome, as its reverse is 93:50, but 05:50 is indeed a palindrome since it remains unchanged when read backwards.
 
@@ -28,11 +28,11 @@ Note : Do not print Test Case Output No, Just Print a single Integer similarly D
 
 ## Sample Input
 
-Test Case Input:  05:39
+Test Case Input :  05:39
 
 Sample Output
 
-Test Case Output: 11
+Test Case Output : 11
 
 ## Explanation
 
