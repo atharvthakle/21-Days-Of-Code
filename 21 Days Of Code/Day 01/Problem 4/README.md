@@ -14,7 +14,7 @@ Write code to achieve above functionality.
 
 ## Input Format
 
-Constraints
+### Constraints
 
 0 <= Input integers <= 100000000
 
@@ -24,7 +24,7 @@ Constraints
 
 Output a single integer output for the operations in a new line each.
 
-## Sample Input
+### Sample Input
 
 * (multiplication star)
 
@@ -48,7 +48,7 @@ Output a single integer output for the operations in a new line each.
 
 X
 
-## Sample Output
+### Sample Output
 
 2 
 
