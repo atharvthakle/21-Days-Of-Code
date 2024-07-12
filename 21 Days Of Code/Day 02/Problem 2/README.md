@@ -10,7 +10,7 @@ Write a function which returns the LCM of N1 and N2. Print the value returned.
 
 ## Input Format
 
-Constraints
+### Constraints
 
 0 < N1 < 1000000000
 
@@ -18,13 +18,13 @@ Constraints
 
 ## Output Format
 
-Sample Input
+### Sample Input
 
 4 
 
 6
 
-## Sample Output
+### Sample Output
 
 12
 
