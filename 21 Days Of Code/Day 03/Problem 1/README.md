@@ -16,7 +16,7 @@ Now, can you help Mrs. Blocks determine the minimum number of minutes she should
 
 The first and only line of input contains a single string in the format hh:mm (00 ≤  hh  ≤ 23, 00 ≤  mm  ≤ 59).
 
-## Constraints
+### Constraints
 
 hh:mm (00 ≤  hh  ≤ 23, 00 ≤  mm  ≤ 59)
 
@@ -26,11 +26,11 @@ Output a single integer on a line by itself, the minimum number of minutes she s
 
 Note : Do not print Test Case Output No, Just Print a single Integer similarly Do take input directly as 05:39.
 
-## Sample Input
+### Sample Input
 
-Test Case Input :  05:39
+Test Case Input : 05:39
 
-Sample Output
+### Sample Output
 
 Test Case Output : 11
 
