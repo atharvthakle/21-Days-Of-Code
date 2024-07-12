@@ -32,7 +32,7 @@ Output a single integer output for the operations in a new line each.
 
 2 
 
-/ (division slash)
+/
 
 4 
 
