@@ -24,10 +24,10 @@ YES
 
 Explanation
 
-The watermelon weighing 8 kgs can be split in any of the following ways:
+The watermelon weighing 8 kgs can be split in any of the following ways :
 
-1) Pete: 2, Billy : 6
+1) Pete : 2, Billy : 6
 
-2) Pete: 4, Billy : 4
+2) Pete : 4, Billy : 4
 
-3) Pete: 6, Billy : 2 
+3) Pete : 6, Billy : 2 
