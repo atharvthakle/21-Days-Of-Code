@@ -9,7 +9,3 @@ Constraints
 ## Output Format
 
 Hello Coding Blocks !
-
-## Sample Output
-
-Hello Coding Blocks !
