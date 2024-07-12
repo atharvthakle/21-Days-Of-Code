@@ -12,7 +12,7 @@ Write a function that returns the number of times digit is found in the number. 
 
 Integer (A number) Integer (A digit)
 
-## Constraints
+### Constraints
 
 0 <= N <= 1000000000 0 <= Digit <= 9
 
@@ -20,13 +20,13 @@ Integer (A number) Integer (A digit)
 
 Integer (count of times digit occurs in the number)
 
-## Sample Input
+### Sample Input
 
 5433231 
 
 3
 
-## Sample Output
+### Sample Output
 
 3
 
