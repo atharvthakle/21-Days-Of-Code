@@ -14,15 +14,17 @@ Take N (number of rows - only odd numbers allowed), print the following pattern 
 
 ## Input Format
 
-Constraints
+### Constraints
 
 0 < N < 10 (only odd numbers allowed)
 
-## Sample Input
+## Output Format
+
+### Sample Input
 
 5
 
-## Sample Output
+### Sample Output
 
       *
 
