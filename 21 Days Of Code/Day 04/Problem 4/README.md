@@ -13,15 +13,18 @@ Take N (number of rows), print the following pattern (for N = 4).
 
 ## Input Format
 
-Constraints
+### Constraints
 
 0 < N < 10
 
-## Sample Input
+## Output Format
+
+### Sample Input
 
 4
 
-## Sample Output
+### Sample Output
+
                        1
                        
                      2 3 2
