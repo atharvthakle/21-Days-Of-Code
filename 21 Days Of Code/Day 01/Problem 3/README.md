@@ -20,9 +20,9 @@ Pattern
 
 ## Sample Output
 
-*
+ *
 
-**
+ **
 
-***
+ ***
 
