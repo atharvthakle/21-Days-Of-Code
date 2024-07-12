@@ -22,7 +22,7 @@ k : total number of queries (1 ≤ k ≤ 10^4).
 
 Next k lines contain description of the queries. Each description consists of four integers ta, fa, tb, fb (1 ≤ ta, tb ≤ n, 1 ≤ fa, fb ≤ h). This corresponds to a query to find the minimum travel time between fa-th floor of the ta-th tower and fb-th floor of the tb-th tower.
 
-## Constraints
+### Constraints
 
 1 ≤ n ≤ 10^8
 
@@ -36,7 +36,7 @@ Next k lines contain description of the queries. Each description consists of fo
 
 For each query print a single integer: the minimum walking time between the locations in minutes.
 
-## Sample Input
+### Sample Input
 
 3 6 2 3 3
 
@@ -46,7 +46,7 @@ For each query print a single integer: the minimum walking time between the loca
 
 1 2 2 3
 
-## Sample Output
+### Sample Output
 
 1
 
