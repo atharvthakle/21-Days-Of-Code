@@ -12,17 +12,17 @@ Take N (number of rows), print the following pattern (for N = 4).
 
 ## Input Format
 
-Constraints
+### Constraints
 
 0 < N < 10
 
 ## Output Format
 
-Sample Input
+### Sample Input
 
 4
 
-Sample Output
+### Sample Output
 
 1						1
 
