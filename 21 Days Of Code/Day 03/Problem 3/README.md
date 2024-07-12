@@ -8,7 +8,7 @@ Aayush can purchase at most M smartphones and Harshit can purchase at most N sma
 
 The first line of the input contains an integer T denoting the number of test cases. The description of T test cases follows. Two integers M and N denoting the maximum possible number of smartphones Aayush and Harshit can purchase respectively.
 
-## Constraints
+### Constraints
 
 1 ≤ T ≤ 1000 1 ≤ M, N ≤ 10^6
 
@@ -16,7 +16,7 @@ The first line of the input contains an integer T denoting the number of test ca
 
 For each test case, output a single line containing one string — the name of the winner i.e. Aayush or Harshit
 
-## Sample Input
+### Sample Input
 
 2
 
@@ -24,7 +24,7 @@ For each test case, output a single line containing one string — the name of t
 
 8 11
 
-## Sample Output
+### Sample Output
 
 Aayush
 
