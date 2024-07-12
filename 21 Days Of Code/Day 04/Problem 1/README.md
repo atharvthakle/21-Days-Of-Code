@@ -10,11 +10,11 @@ The input has only one single integer N.
 
 Output the given pattern.
 
-## Sample Input
+### Sample Input
 
 5
 
-## Sample Output
+### Sample Output
 
 ********* 
 
