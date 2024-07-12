@@ -4,7 +4,7 @@ Take as input N, the size of an array. Take N more inputs and store that in an a
 
 It reads a number N.
 
-2.Take Another N numbers as an input and store them in an Array.
+Take Another N numbers as an input and store them in an Array.
 
 Take another number M as an input.
 
