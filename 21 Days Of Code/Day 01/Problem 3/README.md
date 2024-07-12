@@ -20,9 +20,8 @@ Pattern
 
 ## Sample Output
 
- *
+*
 
- **
+**
 
- ***
-
+***
