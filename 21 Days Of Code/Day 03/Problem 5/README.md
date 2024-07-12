@@ -12,7 +12,7 @@ Write a function which returns the GCD of N1 and N2. Print the value returned.
 
 Two integers seperated by a new line.
 
-## Constraints
+### Constraints
 
 0 < N1 < 1000000000
 
@@ -22,13 +22,13 @@ Two integers seperated by a new line.
 
 Output a single integer which is the GCD of the given integers.
 
-## Sample Input
+### Sample Input
 
 16 
 
 24
 
-## Sample Output
+### Sample Output
 
 8
 
