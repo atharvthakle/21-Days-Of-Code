@@ -16,7 +16,7 @@ Take N (number of rows), print the following pattern (for N = 5).
 
 There will be an integer in input.
 
-## Constraints
+### Constraints
 
 0 < N < 100
 
@@ -24,11 +24,11 @@ There will be an integer in input.
 
 Print the pattern.
 
-## Sample Input
+### Sample Input
 
 5
 
-## Sample Output
+### Sample Output
 
 1  
 
