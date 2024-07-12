@@ -1,0 +1,79 @@
+#You are given number of pages in n different books and m students. The books are arranged in ascending order of number of pages. Every student is assigned to read some consecutive books. The task is to assign books in such a way that the maximum number of pages assigned to a student is minimum.
+
+Input Format
+First line contains integer t as number of test cases. Next t lines contains two lines. For each test case, 1st line contains two integers n and m which represents the number of books and students and 2nd line contains n space separated integers which represents the number of pages of n books in ascending order.
+
+Constraints
+1 < t < 50
+1< n < 100
+1< m <= 50
+1 <= Ai <= 1000
+
+Output Format
+Print the maximum number of pages that can be assigned to students.
+
+Sample Input
+1
+4 2
+12 34 67 90
+Sample Output
+113 
+Explanation
+1st students : 12 , 34, 67 (total = 113)
+2nd students : 90 (total = 90)
+Print max(113, 90)#
+
+
+def is_possible(books, n, m, max_pages):
+    student_count = 1
+    current_pages = 0
+    
+    for i in range(n):
+        if current_pages + books[i] > max_pages:
+            student_count += 1
+            current_pages = books[i]
+            
+            if student_count > m:
+                return False
+        else:
+            current_pages += books[i]
+    
+    return True
+
+def find_min_max_pages(books, n, m):
+    low = max(books)
+    high = sum(books)
+    result = high
+    
+    while low <= high:
+        mid = (low + high) // 2
+        
+        if is_possible(books, n, m, mid):
+            result = mid
+            high = mid - 1
+        else:
+            low = mid + 1
+            
+    return result
+
+# Reading input
+import sys
+input = sys.stdin.read
+data = input().strip().split()
+index = 0
+t = int(data[index])
+index += 1
+
+results = []
+for _ in range(t):
+    n = int(data[index])
+    m = int(data[index + 1])
+    index += 2
+    books = list(map(int, data[index:index + n]))
+    index += n
+    result = find_min_max_pages(books, n, m)
+    results.append(result)
+
+# Printing results for each test case
+for result in results:
+    print(result)
