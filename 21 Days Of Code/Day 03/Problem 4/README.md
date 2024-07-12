@@ -4,17 +4,17 @@ Take N as input. Print the sum of its odd placed digits and sum of its even plac
 
 ## Input Format
 
-Constraints
+### Constraints
 
 0 < N <= 1000000000
 
 ## Output Format
 
-## Sample Input
+### Sample Input
 
 2635
 
-## Sample Output
+### Sample Output
 
 11
 
