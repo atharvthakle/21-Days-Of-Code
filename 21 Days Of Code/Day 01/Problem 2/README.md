@@ -8,7 +8,7 @@ Print the table of x from x*1, x * 2, x * 3....x * y.
 
 Take two inputs, x and y
 
-## Constraints
+### Constraints
 
 x<=10,000 y<=10,000
 
@@ -16,11 +16,11 @@ x<=10,000 y<=10,000
 
 Each line contains the table of the number x
 
-## Sample Input
+### Sample Input
 
 2 4
 
-## Sample Output
+### Sample Output
 
 2
 
