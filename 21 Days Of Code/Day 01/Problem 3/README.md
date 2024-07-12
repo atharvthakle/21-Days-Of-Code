@@ -6,7 +6,7 @@ Take as input N, a number. Print the pattern as according to given input and out
 
 Integer
 
-## Constraints
+### Constraints
 
 1 <= N <=; 100
 
@@ -14,11 +14,11 @@ Integer
 
 Pattern
 
-## Sample Input
+### Sample Input
 
 3
 
-## Sample Output
+### Sample Output
 
 *
 
