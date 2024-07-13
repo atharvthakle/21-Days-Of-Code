@@ -1,6 +1,6 @@
 # 21-Days-Of-Code
 
-An intensive coding event organized by IEEE SB of Manipal University - Jaipur, where solve a variety of problems. This event focused on two domains - Data Structures and Algorithms (DSA) and Web Development. Among the two, my chosen domain was DSA. It was hosted on the Code Blocks platform. This repository contains my solutions to the problems presented during the event, using which I secured first rank among the (number) participants.
+An intensive coding event organized by IEEE SB of Manipal University - Jaipur, where solve a variety of problems. This event focused on two domains - Data Structures and Algorithms (DSA) and Web Development. Among the two, my chosen domain was DSA. It was hosted on the Code Blocks platform. This repository contains my solutions to the problems presented during the event, using which I secured 1st rank among the (number) participants.
 
 ## Structure
 
