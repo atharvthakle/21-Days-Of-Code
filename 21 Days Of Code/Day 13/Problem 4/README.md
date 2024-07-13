@@ -27,13 +27,9 @@ true
 The tree looks like
 
              10
-             
           /       \
-   
        20           30
-       
     /     \       /     \
-
    40      50    60      73
 
 The given tree is clearly balanced as depths of the left and right sub-trees of every node differ by 1 or less.
