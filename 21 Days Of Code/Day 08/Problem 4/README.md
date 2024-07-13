@@ -68,9 +68,7 @@ For each testcase , print a single number - the minimum sum of rupees Ramu will 
 
 ## Explanation
 
-For the first testcase ,
-
-The total cost of rickshaws = min( min(2 * 1, 3) + min(5 * 1, 3), 7) = min(5, 7) = 5
+For the first testcase, The total cost of rickshaws = min( min(2 * 1, 3) + min(5 * 1, 3), 7) = min(5, 7) = 5
 
 The total cost of cabs = min( min(4 * 1, 3) + min(4 * 1, 3) + min(4 * 1, 3) , 7) = min ( 9, 7) = 7
 
