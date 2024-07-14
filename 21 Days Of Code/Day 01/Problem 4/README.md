@@ -26,27 +26,27 @@ Output a single integer output for the operations in a new line each.
 
 ### Sample Input
 
-* (multiplication star)
+    * 
 
-1 
+    1 
 
-2 
+    2 
 
-/
+    /
 
-4 
+    4 
 
-2 
+    2 
 
-+ (addition plus)
+    + 
 
-3 
+    3 
 
-2 
+    2 
 
-; 
+    ; 
 
-X
+    X
 
 ### Sample Output
 
