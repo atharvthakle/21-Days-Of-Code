@@ -24,10 +24,10 @@ Take N (number of rows), print the following pattern (for N = 4).
 
 ### Sample Output
 
-1						1
+    1						1
 
-1	2				2	1
+    1	2				2	1
 
-1	2	3		3	2	1
+    1	2	3		3	2	1
 
-1	2	3	4	3	2	1
+    1	2	3	4	3	2	1
