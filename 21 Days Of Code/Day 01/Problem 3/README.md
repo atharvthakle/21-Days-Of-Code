@@ -20,18 +20,8 @@ Pattern
 
 ### Sample Output
 
-*
+    *
 
-**
+    **
 
-***
-
-## Note
-
-If the output is not visible properly in README.md, here's a description of output :
-
-First row : one star (*)
-
-Second row : one star (**)
-
-Third row : three star (***)
+    ***
