@@ -2,15 +2,15 @@
 
 Take N (number of rows - only odd numbers allowed), print the following pattern (for N = 5).
 
-      *
+          *
 
-   *  *  *  
+       *  *  *  
    
-*  *  *  *  *  
+    *  *  *  *  *  
  
-   *  *  *
+       *  *  *
    
-      *
+          *
 
 ## Input Format
 
