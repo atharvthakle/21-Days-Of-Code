@@ -26,15 +26,15 @@ Take N (number of rows - only odd numbers allowed), print the following pattern 
 
 ### Sample Output
 
-      *
+          *
 
-    * * *
-
-  * * * * *
-
-    * * *
-
-      *
+       *  *  *  
+   
+    *  *  *  *  *  
+ 
+       *  *  *
+   
+          *
 
 ## Explanation
 
